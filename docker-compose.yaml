@@ -1,5 +1,5 @@
 services:
-  areyouok:
+  oktetv:
     build: .
     ports:
       - 80:80
